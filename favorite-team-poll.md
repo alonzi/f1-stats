@@ -6,7 +6,7 @@ Instruction: increment the votes talley next to your favorite F1 team. If your t
 |FERRARI				| 2
 |MERCEDES | |
 |ALPINE RENAULT| |
-|MCLAREN MERCEDES| |
+|MCLAREN MERCEDES| 1 |
 |ALFA ROMEO FERRARI| |
 |HAAS FERRARI | |
 |ALPHATAURI RBPT| |
