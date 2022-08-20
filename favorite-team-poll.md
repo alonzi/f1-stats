@@ -4,7 +4,7 @@ Instruction: increment the votes talley next to your favorite F1 team. If your t
 |---------|------------------------------------|
 |RED BULL RACING RBPT |
 |FERRARI				| 2
-|MERCEDES | |
+|MERCEDES | 1|
 |ALPINE RENAULT| |
 |MCLAREN MERCEDES| |
 |ALFA ROMEO FERRARI| |
